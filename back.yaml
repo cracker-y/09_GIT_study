@@ -1,7 +1,8 @@
-team : oz_back
+team: oz_back
 
-member :
- - 박
- - 김
- - 정
- - 이
+leader: 예림
+
+member:
+    - 은기
+    - 정건
+    - 두홍
